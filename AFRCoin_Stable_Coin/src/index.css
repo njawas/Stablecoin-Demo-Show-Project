@@ -1,0 +1,48 @@
+*{
+  text-transform: none;
+}
+
+#zeroX{
+  z-index: 2000000000000000000000000000000000000000000000000000000000000000;
+  position: absolute;
+}
+
+.MuiListItem-button:hover{
+  background-color: #1d1e20 !important;
+}
+
+.MuiStepLabel-label.MuiStepLabel-alternativeLabel{
+  color:grey !important; 
+}
+
+.MuiStepLabel-label.MuiStepLabel-active{
+  color:white !important;
+}
+
+.MuiStepIcon-root.MuiStepIcon-active{
+  color: #8a8ea4 !important;
+}
+
+.MuiStepIcon-root.MuiStepIcon-completed{
+  color: #44454a !important;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #0f0f13 !important;
+}
+
+p{
+  margin: 0;
+  padding: 0;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
